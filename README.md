@@ -1,0 +1,2 @@
+# qwlprnn
+benim-mavi-tiklerim
